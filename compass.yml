@@ -1,0 +1,13 @@
+name: composer-c0b4572b
+id: ari:cloud:compass:2261fd15-e484-47df-a3c1-3945f31f5015:component/e50c4fd7-4bca-45fe-87b2-62835b87da68/9d3f035d-dff6-4b04-b7a0-a0a739baaf98
+description: Dependency Manager for PHP
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
